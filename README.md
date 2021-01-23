@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/kurdistan007"><img title="Github" src="https://img.shields.io/badge/Github-LaNa--GyAn-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NS-XAR"><img title="Github" src="https://img.shields.io/badge/Github-NS--XAR-blue?style=for-the-badge&logo=github"></a>
 </p>
